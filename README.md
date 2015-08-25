@@ -47,6 +47,8 @@ Files that you may want to look at
 - `b78player.py`: You can set the time allocation here
 - `constants.py`: IP address and ports for hosting a game
 
+Our bot's name is b78, hence the name of the files.
+
 The other codes are either AI support code or the default game skeleton for all competitors.
 
 Comments

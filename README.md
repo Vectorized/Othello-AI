@@ -32,15 +32,15 @@ Running
 	
   In the 2nd window, run:
 
-        python runclientblack.py
+      python runclientblack.py
 	
   <b>If you have choosen `'me'`</b>, you need to open one more terminal window to launch the AI (which will help you think of what you should do. You just have to do mirror what your opponent does to the AI game window. :P)
 
-        python runclientwhite.py
+      python runclientwhite.py
 	
   <b>If you have choosen `'he'`</b>, you need to open one more terminal window to launch the AI (which will help you think of what you should do. You just have to do mirror what your opponent does to the AI game window. :P)
 
-        python runclientblack.py
+      python runclientblack.py
 
 Files that you may want to look at
 ----------------------------------

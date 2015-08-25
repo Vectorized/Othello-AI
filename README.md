@@ -21,7 +21,7 @@ Running
  
         python runserver.py ['test'|'me'|'he']
 
-  You can choose one out of the three options:
+  You can choose one out of the three options:  
   `'test'` : AI vs AI.  
   `'me'` : You start first. Used for challenging others online.  
   `'he'` : Opponent starts first. Used for challening others online.  

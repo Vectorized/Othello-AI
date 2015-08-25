@@ -32,11 +32,11 @@ Running
 
         python runclientblack.py
 	
-  <b>If you have choosen `'me'`</b>, you need to open one more terminal window to launch the AI (which will help you think of what you should do. You just have to do mirror what your opponent does to the AI game window. =P)
+  <b>If you have choosen `'me'`</b>, you need to open one more terminal window to launch the AI (which will help you think of what you should do. You just have to do mirror what your opponent does to the AI game window. :P)
 
         python runclientwhite.py
 	
-  <b>If you have choosen `'he'`</b>, you need to open one more terminal window to launch the AI (which will help you think of what you should do. You just have to do mirror what your opponent does to the AI game window. =P)
+  <b>If you have choosen `'he'`</b>, you need to open one more terminal window to launch the AI (which will help you think of what you should do. You just have to do mirror what your opponent does to the AI game window. :P)
 
         python runclientblack.py
 
@@ -56,6 +56,8 @@ Comments
 
 Feel free to edit or modify the code, learn from it, etc. 
 If you find some way to make it even more awesome, or want to let me of how it has helped you in any AI othello contest, drop me a message using the contact form on my website. 
+
+Also, if you are using an AI to vs a human player online, it's considered etiquette to let them know. ;)
 
 This project was developed with the following limitations for the competition:
 - Usage of Python 2.7

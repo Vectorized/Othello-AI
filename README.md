@@ -40,8 +40,8 @@ Running
 
         python runclientblack.py
 
-Files that you may want to edit
--------------------------------
+Files that you may want to look at
+----------------------------------
 
 - `b78.py`: Most of the AI logic is contained here
 - `b78player.py`: You can set the time allocation here
@@ -53,10 +53,10 @@ Comments
 --------
 
 Feel free to edit or modify the code, learn from it, etc. 
-If you find some way to make it even more awesome, or want to let me of how it has helped you in any AI othello contest, do drop me a message using the contact form on my website. 
+If you find some way to make it even more awesome, or want to let me of how it has helped you in any AI othello contest, drop me a message using the contact form on my website. 
 
 This project was developed with the following limitations for the competition:
-- Usage of python 2.7
+- Usage of Python 2.7
 - No calls to external non-Python APIs. (Basically, we cannot write C/C++ code and call it from Python.)
 - Code must be able run on opponent's computer with basic python installation. 
   This means we can't use numpy, Pypy, Cython, etc. Not everyone has these installed. As the "bit-vectorization" effectively pushes all the heavy-lifting to the inner C loops in Python to avoid indirection, the code should not see any siginificant improvements even with those extras. (Pypy is only ~10% faster) 

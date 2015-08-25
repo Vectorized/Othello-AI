@@ -24,7 +24,7 @@ Running
   You can choose one out of the three options:  
   `'test'` : AI vs AI.  
   `'me'` : You start first. Used for challenging others online.  
-  `'he'` : Opponent starts first. Used for challening others online.  
+  `'he'` : Opponent starts first. Used for challenging others online.  
 
 3. <b>If you have choosen `'test'`</b>, you need to open two more terminal windows to launch the two AI bots. In the 1st one, run:
 

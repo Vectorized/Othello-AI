@@ -3,7 +3,7 @@
 
 Main project for 50.021 Artificial Intelligence course in Singapore University of Technology and Design (SUTD). This is the winning entry for the othello AI competition during 50.021 summer 2015.
 
-![Strong Othello AI screenshot](https://raw.githubusercontent.com/webby1111/Othello-AI/master/screenshot.png "Strong Othello AI screenshot")
+![Strong Othello AI screenshot](https://raw.githubusercontent.com/Vectorized/Othello-AI/master/screenshot.png "Strong Othello AI screenshot")
 
 <b>Features:</b>  
 - Bitboard
